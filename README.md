@@ -1,3 +1,3 @@
 # QuantumPressureMCMC
 
-MCMC and proxies for ULDM models confronting rotation curves of the Little Things Galaxies
+Repository with MCMCs and proxies (velocity and density) for quantum pressure models confronting rotation curves of the Little Things Galaxies
