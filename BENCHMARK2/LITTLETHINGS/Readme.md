@@ -1,1 +1,0 @@
-Baryonic feedback applied to Little Things Galaxies.  We use a flat log prior for $M_{v}$ and a linear prior for $c$. Instead, for $M_{star}$ we use a log- normal prior, centered in each mean value of the $M_{star}$ (Table 1 of MNRAS 467, 2019–2038 (2017)) and a scatter $\sigma=0.1$ dex is assigned for all galaxies. 
